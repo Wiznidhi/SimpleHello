@@ -3,7 +3,9 @@ package SimpleHello;
 public class SimpleHello {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Fuck you!");
+		System.out.println("Don't Fuck you!");
+		System.out.println("jihad");
+		
 	}
 
 }
