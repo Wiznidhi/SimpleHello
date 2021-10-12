@@ -5,7 +5,7 @@ public class SimpleHello {
 		// TODO Auto-generated method stub
 		System.out.println("Don't Fuck you!");
 		System.out.println("jihad");
-		
+		System.out.println("Nidhi was here");
 	}
 
 }
